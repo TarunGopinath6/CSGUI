@@ -1,0 +1,3 @@
+name: superuser
+password: superuser
+email: superuser@app.com

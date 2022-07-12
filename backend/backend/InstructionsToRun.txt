@@ -1,0 +1,6 @@
+cd Backend/backend
+python manage.py runserver
+
+Log in with superuser credentials
+
+Go to http://127.0.0.1:8000/api/sample
